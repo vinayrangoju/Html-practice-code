@@ -1,0 +1,71 @@
+HTML EXTENTIONS :
+--------------------
+auto rename ---- rename both end and start tags
+material themes --2 Shows the file icons
+Live server --- No need to reload page
+Css peek to see what styles added to attributes(to see ctrl+cursor)
+prettie --- to align all in similar way
+
+
+Enable: emmet abrevation in vs code  for auto tags
+
+Use lorem in <p>tag to create dummy content
+
+paragraph in html
+------------------
+Use word prop to see hided text (view--word prop)
+
+Images in Html
+-------------------
+Use  website to swnld good pics ---- unsplash
+                                     pixabay
+                                     pexels
+                                     gratisography
+Use img tag to inserrt img
+use foldr and keep photos in folder to clear view 
+
+
+Comments
+--------------
+Use comments shortcuts but pressing ctrl + /
+
+Images :
+----------
+use <img src="place img link/file loc" alt="to display name when img is not available">write here</a>
+
+
+Links :
+--------------
+ use <a href
+ Use target=_blank to open link in new page -->
+ links taken from internet is external links -->
+ links taken from vs code or local is internal links -->
+use id ="name" can call with <a href"name">go to top </a>
+use for image link <a href="link"> <img src="./Images/kari-shea-1SAnrIxw5OY-unsplash.jpg" alt="image"></a>
+use _blank to open in new tab
+
+Ordered list, unordered list & Nested list :
+---------------------------------------------
+1.Starts with ol --li tags enter data between it
+2.Starts with ul --li tags enter data between it
+3.writing in existing list  (adding ol in ul is nested list)
+
+Tables :
+-----------
+Use <table> (tags) 
+<th></th>
+<tr>
+<td>data</td>
+<td>data</td>
+</tr>
+</table>
+
+
+Forms:
+-----------
+input type=text for entering free text
+Placeholder in tags to see example text
+input type =number to enter numbers
+input type =email to enter mails
+input typ=sumbit to get submit button
+button =submit to write free text in button
